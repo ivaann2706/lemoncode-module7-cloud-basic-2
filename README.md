@@ -1,6 +1,6 @@
 # Cloud Module - Exercise 2
 
-In this repository, Github Pages has been deployed manually. For this, a project used during the cloud sessions has been used as an example.
+In this repository, Github pages have been automatically implemented through Github Actions y and the gh-pages library. To do this, every time a push is made to master, a build and deployment flow is triggered.
 
 This repository has two branches:
 
